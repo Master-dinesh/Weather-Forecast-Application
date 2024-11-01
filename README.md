@@ -1,32 +1,3 @@
-Here's the updated **Screenshots** section in the README file, with only the image names included in the paths:
-
----
-
-## Screenshots 📸
-![Searching City Name](Screen_Shots/SearchingCity_Name.png)  
-**Title**: Searching City Name  
-**Image Path**: `Screen_Shots/SearchingCity_Name.png`
-
-![Invalid City Name](Screen_Shots/Invalid_City_Name_is_not_accepted.png)  
-**Title**: Invalid City Name  
-**Image Path**: `Screen_Shots/Invalid_City_Name_is_not_accepted.png`
-
-![Responsive - iPhone SE](Screen_Shots/Responsive -iPhone SE.png)  
-**Title**: Responsive - iPhone SE  
-**Image Path**: `Screen_Shots/Responsive -iPhone SE.png`
-
-![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive-iPhone_SE.png)  
-**Title**: Responsive - iPhone SE (alternative)  
-**Image Path**: `Screen_Shots/Responsive-iPhone_SE.png`
-
----
-
-### Complete README with Updated Screenshot Paths
-
-Here’s how the full README would look with the updated paths:
-
----
-
 # Weather Forecast Application ☁️
 
 ## Short Description 🌟
