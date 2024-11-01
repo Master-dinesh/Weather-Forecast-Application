@@ -122,6 +122,25 @@ Open the `index.html` file in your preferred web browser.
    - Modify the CSS files in the `css` directory for your preferred styling.
 
 
+## Screenshots 📸
+### Responsive
+![Responsive](Screen_Shots/Responsive.png)  
+**Image Path**: `Screen_Shots/Responsive.png`
+
+### Searching
+![Searching](Screen_Shots/Seraching.png)  
+**Image Path**: `Screen_Shots/Seraching.png`
+
+### Invalid
+![Invalid](Screen_Shots/Invalid.png)  
+**Image Path**: `Screen_Shots/Invalid.png`
+
+### iPhone SE
+![iPhone SE](Screen_Shots/iPhone_SE.png)  
+**Image Path**: `Screen_Shots/iPhone_SE.png`
+
+---
+
 ## License 📝
 This project is licensed under the MIT License.  
 **Owner**: Dinesh (master-dinesh)
