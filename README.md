@@ -123,24 +123,30 @@ Open the `index.html` file in your preferred web browser.
 
 ---
 
+Here’s the simplified **Screenshots** section with only the image paths included, along with the image names above each image:
+
+---
+
 ## Screenshots 📸
+### Searching City Name
 ![Searching City Name](Screen_Shots/SearchingCity_Name.png)  
-**Title**: Searching City Name  
 **Image Path**: `Screen_Shots/SearchingCity_Name.png`
 
+### Invalid City Name
 ![Invalid City Name](Screen_Shots/Invalid_City_Name_is_not_accepted.png)  
-**Title**: Invalid City Name  
 **Image Path**: `Screen_Shots/Invalid_City_Name_is_not_accepted.png`
 
+### Responsive - iPhone SE
 ![Responsive - iPhone SE](Screen_Shots/Responsive -iPhone SE.png)  
-**Title**: Responsive - iPhone SE  
 **Image Path**: `Screen_Shots/Responsive -iPhone SE.png`
 
+### Responsive - iPhone SE (alternative)
 ![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive-iPhone_SE.png)  
-**Title**: Responsive - iPhone SE (alternative)  
 **Image Path**: `Screen_Shots/Responsive-iPhone_SE.png`
 
 ---
+
+Let me know if you need any further modifications!
 
 ## License 📝
 This project is licensed under the MIT License.  
