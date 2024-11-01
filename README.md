@@ -121,7 +121,21 @@ Open the `index.html` file in your preferred web browser.
 2. **Customize Styles**:
    - Modify the CSS files in the `css` directory for your preferred styling.
 
+## Screenshots 📸
 
+### Searching City Name
+![Searching City Name](Screen_Shots/SearchingCity_Name.png)  
+
+### Invalid City Name
+![Invalid City Name](Screen_Shots/Invalid_City_Name_is_not_accepted.png)  
+
+### Responsive - iPhone SE
+![Responsive - iPhone SE](Screen_Shots/Responsive-iPhone SE.png)  
+
+### Responsive - iPhone SE (alternative)
+![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive-iPhone_SE.png)  
+
+---
 ## License 📝
 This project is licensed under the MIT License.  
 **Owner**: Dinesh (master-dinesh)
