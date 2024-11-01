@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="author" content="DINESH">
+    <meta name="copyright" content="© 2024 DINESH">
+    <!-- Hidden author information -->
+    <meta name="generator" content="Created by DINESH">
+    <title>Weather Forecast App</title>
+    <link rel="stylesheet" href="./output.css">
+</head>
+<body class="bg-gradient-to-br from-blue-400 to-indigo-700 text-white font-sans">
+
+    <!-- Main Container -->
+    <div class="container mx-auto p-6 flex flex-col items-center">
+        <h1 class="text-3xl font-bold mb-4">Weather Forecast</h1>
+<!-- HTML Input Field with text color adjustments -->
+<div class="flex flex-col sm:flex-row justify-center mb-6">
+    <input id="city-input" type="text" placeholder="Enter city name"
+        class="p-2 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400 text-black bg-white placeholder-gray-600" />
+    <button id="search-btn" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-r-lg">Search</button>
+    <button id="location-btn" class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-lg mt-2 sm:mt-0 sm:ml-2">Use Current Location</button>
+</div>
+
+<div style="display: none;">Created by DINESH</div>
+
+        <!-- Current Weather Display -->
+        <div id="current-weather" class="w-full max-w-md p-6 rounded-lg shadow-lg bg-opacity-20 bg-gray-800 mb-6">
+            <h2 class="text-2xl mb-4">Current Weather</h2>
+            
+            <!-- Location and Date -->
+            <div class="mb-4">
+                <p id="current-location" class="text-lg font-semibold">Location</p>
+                <p id="current-date" class="text-sm text-gray-400">Date</p>
+            </div>
+
+            <div class="flex items-center justify-between">
+                <div class="flex items-center">
+                    <img id="current-icon" src="../assets/icons/sun.png" alt="Weather icon" class="w-16 h-16 mr-4">
+                    <div>
+                        <p id="current-temp" class="text-4xl font-bold">--°C</p>
+                        <p id="current-condition" class="text-sm">Loading...</p>
+                    </div>
+                </div>
+                <div class="text-sm text-right flex flex-col items-end">
+                    <p class="flex items-center">
+                        <img src="../assets/icons/wind.png" alt="Wind icon" class="w-5 h-5 mr-1">
+                        Wind: <span id="wind" class="ml-1">-- km/h</span>
+                    </p>
+                    <p class="flex items-center">
+                        <img src="../assets/icons/humidity.png" alt="Humidity icon" class="w-5 h-5 mr-1">
+                        Humidity: <span id="humidity" class="ml-1">--%</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Recent Cities Dropdown Container -->
+        <div class="relative w-full max-w-md mb-6 bg-gray-700 p-4 rounded-lg shadow-lg">
+            <h2 class="text-xl font-semibold mb-2">Recent Cities</h2>
+            <ul id="recentCitiesDropdown" class="bg-white rounded shadow-md hidden mt-1 text-black overflow-y-auto max-h-48">
+                <!-- Dynamic list items will be added here through JavaScript -->
+            </ul>
+        </div>
+        <div style="display: none;">Created by DINESH</div>
+
+        <!-- 5-Day Forecast -->
+        <div id="forecast" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4 w-full max-w-5xl mx-auto">
+            <!-- Forecast Days Go Here Dynamically -->
+        </div>
+        
+        <!-- Error Alert Message -->
+        <div id="error-alert" class="hidden p-4 bg-red-100 border border-red-400 text-red-700 rounded relative max-w-md mt-2">
+            <span id="error-message"></span>
+            <button id="close-alert" class="absolute top-0 right-0 p-2">&times;</button>
+        </div>
+    </div>
+    <footer class="text-center mt-4 p-2 text-gray-600">
+        Made with ❤️ by DINESH SURESH © 2024
+    </footer>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
