@@ -121,20 +121,30 @@ Open the `index.html` file in your preferred web browser.
 2. **Customize Styles**:
    - Modify the CSS files in the `css` directory for your preferred styling.
 
+Here’s the updated **Screenshots** section with the new image names and paths specified, focusing only on the paths relative to the `Screen_Shots` folder:
+
+---
+
 ## Screenshots 📸
+### Responsive
+![Responsive](Screen_Shots/Responsive.png)  
+**Image Path**: `Screen_Shots/Responsive.png`
 
-### Searching City Name
-![Searching City Name](Screen_Shots/SearchingCity_Name.png)  
+### Searching
+![Searching](Screen_Shots/Seraching.png)  
+**Image Path**: `Screen_Shots/Seraching.png`
 
-### Invalid City Name
-![Invalid City Name](Screen_Shots/Invalid_City_Name_is_not_accepted.png)  
+### Invalid
+![Invalid](Screen_Shots/Invalid.png)  
+**Image Path**: `Screen_Shots/Invalid.png`
 
-### Responsive - iPhone SE
-![Responsive - iPhone SE](Screen_Shots/Responsive-iPhone SE.png)  
+### iPhone SE
+![iPhone SE](Screen_Shots/iPhone_SE.png)  
+**Image Path**: `Screen_Shots/iPhone_SE.png`
 
-### Responsive - iPhone SE (alternative)
-![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive-iPhone_SE.png)  
+---
 
+Let me know if you need any more changes!
 ---
 ## License 📝
 This project is licensed under the MIT License.  
