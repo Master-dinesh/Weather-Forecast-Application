@@ -123,25 +123,9 @@ Open the `index.html` file in your preferred web browser.
 
 ---
 
-## Screenshots 📸
-Got it! Here’s the updated **Screenshots** section with just the titles of the images:
-
----
 
 ## Screenshots 📸
-![Searching City Name](Screen_Shots/Searching City Name.png)  
-*Searching City Name*
 
-![Invalid City Name](Screen_Shot/Invalid city name is not accepted .png)  
-*Invalid City Name*
-
-![Responsive - iPhone SE](ScreenShots/Responsive - iPhone SE.png)  
-*Responsive - iPhone SE*
-
-![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive -iPhone SE.png)  
-*Responsive - iPhone SE (alternative)*
-
----
 
 ### Complete README with Titles Only
 
