@@ -1,33 +1,29 @@
-Here’s the **Screenshots** section with the specified image paths included for clarity:
+Here's the updated **Screenshots** section in the README file, with only the image names included in the paths:
 
 ---
 
 ## Screenshots 📸
-![Searching City Name](Screen_Shots/Searching%20City%20Name.png)  
+![Searching City Name](Screen_Shots/SearchingCity_Name.png)  
 **Title**: Searching City Name  
-**Image Path**: `Screen_Shots/Searching City Name.png`  
-**Image Name**: Searching City Name
+**Image Path**: `Screen_Shots/SearchingCity_Name.png`
 
-![Invalid City Name](Screen_Shot/Invalid%20city%20name%20is%20not%20accepted%20.png)  
+![Invalid City Name](Screen_Shots/Invalid_City_Name_is_not_accepted.png)  
 **Title**: Invalid City Name  
-**Image Path**: `Screen_Shot/Invalid city name is not accepted.png`  
-**Image Name**: Invalid City Name
+**Image Path**: `Screen_Shots/Invalid_City_Name_is_not_accepted.png`
 
-![Responsive - iPhone SE](ScreenShots/Responsive%20-%20iPhone%20SE.png)  
+![Responsive - iPhone SE](Screen_Shots/Responsive -iPhone SE.png)  
 **Title**: Responsive - iPhone SE  
-**Image Path**: `ScreenShots/Responsive - iPhone SE.png`  
-**Image Name**: Responsive - iPhone SE
+**Image Path**: `Screen_Shots/Responsive -iPhone SE.png`
 
-![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive%20-iPhone%20SE.png)  
+![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive-iPhone_SE.png)  
 **Title**: Responsive - iPhone SE (alternative)  
-**Image Path**: `Screen_Shots/Responsive -iPhone SE.png`  
-**Image Name**: Responsive - iPhone SE (alternative)
+**Image Path**: `Screen_Shots/Responsive-iPhone_SE.png`
 
 ---
 
-### Complete README with Screenshot Paths
+### Complete README with Updated Screenshot Paths
 
-Here’s how the full README would look with the updated screenshot paths:
+Here’s how the full README would look with the updated paths:
 
 ---
 
@@ -157,25 +153,21 @@ Open the `index.html` file in your preferred web browser.
 ---
 
 ## Screenshots 📸
-![Searching City Name](Screen_Shots/Searching%20City%20Name.png)  
+![Searching City Name](Screen_Shots/SearchingCity_Name.png)  
 **Title**: Searching City Name  
-**Image Path**: `Screen_Shots/Searching City Name.png`  
-**Image Name**: Searching City Name
+**Image Path**: `Screen_Shots/SearchingCity_Name.png`
 
-![Invalid City Name](Screen_Shot/Invalid%20city%20name%20is%20not%20accepted%20.png)  
+![Invalid City Name](Screen_Shots/Invalid_City_Name_is_not_accepted.png)  
 **Title**: Invalid City Name  
-**Image Path**: `Screen_Shot/Invalid city name is not accepted.png`  
-**Image Name**: Invalid City Name
+**Image Path**: `Screen_Shots/Invalid_City_Name_is_not_accepted.png`
 
-![Responsive - iPhone SE](ScreenShots/Responsive%20-%20iPhone%20SE.png)  
+![Responsive - iPhone SE](Screen_Shots/Responsive -iPhone SE.png)  
 **Title**: Responsive - iPhone SE  
-**Image Path**: `ScreenShots/Responsive - iPhone SE.png`  
-**Image Name**: Responsive - iPhone SE
+**Image Path**: `Screen_Shots/Responsive -iPhone SE.png`
 
-![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive%20-iPhone%20SE.png)  
+![Responsive - iPhone SE (alternative)](Screen_Shots/Responsive-iPhone_SE.png)  
 **Title**: Responsive - iPhone SE (alternative)  
-**Image Path**: `Screen_Shots/Responsive -iPhone SE.png`  
-**Image Name**: Responsive - iPhone SE (alternative)
+**Image Path**: `Screen_Shots/Responsive-iPhone_SE.png`
 
 ---
 
@@ -198,4 +190,4 @@ Thank you for visiting my repository! I hope you find the application useful. If
 
 ---
 
-Let me know if you need any more adjustments or additions!
+Let me know if you need any more changes or additional information!
